@@ -1,6 +1,6 @@
 ## CSS Text Portrait Effects
 
-Tine but powerful visual effects!
+Tiny but powerful visual effects!
 
 This is a practice I made taken from the Online Tutorials [videos](https://www.youtube.com/watch?v=WE6QTMQ-3r8).
 
